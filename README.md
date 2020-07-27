@@ -3,7 +3,7 @@
 1. Create a Github account (if you already have one, you can avoid this step). Its username will be needed.
 
 2. Ask the manager, Eliza Niewiadomska (NiewiadE@ebrd.com), to create a new Organization in the GitHub. The following information must be provided:
-    * The name of the Organization, which will be something similar to *EBRD-ProjectName*. Therefore, the URL of the Organization will be: https://github.com/EBRD-ProjectName.
+    * The name of the Organization, which will be something similar to *EBRD-Digital-Transformation-ProjectName*. Therefore, the URL of the Organization will be: https://github.com/EBRD-ProjectName.
     * The Github account of the collaborator.
   
 3. Once the Organization is created, the manager will use the collaborator's Github account in order to add it as member of the Organization, so that the collaborator is able to create the repositories.
