@@ -1,6 +1,7 @@
 # Instructions to collaborate in EBRD Digital Transformation
 
 1. Create a Github account (if you already have one, you can avoid this step). Its username will be needed.
+    * For guidance on the establishment of a GitHub account and the first steps, see the following manual: [How to work with EBRD’s GitHub](https://github.com/EBRDDigitalTransformation/EBRD-Digital-Transformation/blob/master/Manuals/EBRD_Manual%20for%20Creation%20of%20a%20GitHub_Repository_v1.docx)
 
 2. Ask the manager, Eliza Niewiadomska (NiewiadE@ebrd.com), to create a new Organization in the GitHub. The following information must be provided:
     * The name of the Organization, which will be something similar to *EBRD-Digital-Transformation-ProjectName*. Therefore, the URL of the Organization will be: https://github.com/EBRD-ProjectName.
